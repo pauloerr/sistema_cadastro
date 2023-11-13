@@ -34,6 +34,7 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 
 - # Tela Principal
 
+Tela principal do sistema com campos comuns a todos os tipos de pessoas que podem ser cadastrados.
   
 ![Tela de Cadastro](01_tela_principal.png)
 
@@ -42,8 +43,6 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 
 - **Tipo de Relacionamento:**
   - Opções: Professor, Fornecedor, Aluno
-
-
  
 - **Nome:**
   - Campo de texto
@@ -60,15 +59,78 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 - **Endereço:**
   - Campo de texto
 
+- **Cadastrar/Atualizar Registro:**
+  - Botão
+  - Funcionalidade: Cadastra ou atualiza as informações conforme preenchido no formulário.
+
 - # Tela Aluno
+
+Opçoes exclusivas para o tipo de pessoa física Aluno
+
 ![Tela de Cadastro](02_tela_aluno.png)
 
+- **Data de Nascimento:**
+  - Campo de data
+
+- **CPF:**
+  - Campo de texto
+
+- **Sexo:**
+  - Opções: Selecione, Masculino, Feminino
+
+- **Curso:**
+  - Campo de texto
+
+- **Turno:**
+  - Opções: Matutino, Vespertino
 
 - # Tela Professor
+
 ![Tela de Cadastro](03_tela_professor.png)
 
+Opçoes exclusivas para o tipo de pessoa física/jurídica Professor
+
+- **Data de Nascimento:**
+  - Campo de data
+
+- **CPF/CNPJ:**
+  - Campo de texto
+
+- **Sexo:**
+  - Opções: Selecione, Masculino, Feminino
+
+- **Registro Profissional:**
+  - Campo de texto
+
+- **Área de Especialização:**
+  - Campo de texto
+
+- **Título Acadêmico:**
+  - Campo de texto
+
+- **Horário:**
+  - Campo de hora
+
+- **Disciplina:**
+  - Campo de texto
+
 - # Tela Fornecedor
+
+Opçoes exclusivas para o tipo de pessoa jurídica Fornecedor
+
 ![Tela de Cadastro](04_tela_fornecedor.png)
+
+- **CNPJ:**
+  - Campo de texto
+
+- **Atividade:**
+  - Campo de texto
+
+- **Produto:**
+  - Campo de texto
+
+- **Valor:**
+  - Campo de texto (formato: R$ 0,00)
 
 ## Autores
 
