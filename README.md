@@ -21,8 +21,8 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 1. Clone o repositório em sua máquina local.
 2. Utilize o Xampp ou configure o IIS em sua máquina e copie os 3 (três) arquivos .php para a pasta do localhost.
 3. Instale o SQL Server 2012 e crie um banco de dados chamado `Cadastro_Usuario`.
-4. Execute o script para criar a tabela `cadastro_usuario`.
-5. Abra o arquivo `index.php` em seu navegador.
+4. Execute o script SQL para criar a tabela `cadastro_usuario`.
+5. Abra o arquivo `view.php` em seu navegador.
 
 ## Recursos Adicionais
 
@@ -32,7 +32,41 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 
 - ## Tela de Cadastro
 
+- # Tela Principal
 ![Tela de Cadastro](01_tela_principal.png)
+
+- **Tipo de Pessoa:**
+  - Opções: Pessoa Física, Pessoa Jurídica
+
+- **Tipo de Relacionamento:**
+  - Opções: Professor, Fornecedor, Aluno
+
+
+ 
+- **Nome:**
+  - Campo de texto
+
+- **Ativo:**
+  - Opções: Sim, Não
+
+- **E-mail:**
+  - Campo de texto
+
+- **Contato:**
+  - Campo de texto
+
+- **Endereço:**
+  - Campo de texto
+
+- # Tela Aluno
+![Tela de Cadastro](02_tela_aluno.png)
+
+
+- # Tela Professor
+![Tela de Cadastro](03_tela_professor.png)
+
+- # Tela Fornecedor
+![Tela de Cadastro](04_tela_fornecedor.png)
 
 ## Autores
 
