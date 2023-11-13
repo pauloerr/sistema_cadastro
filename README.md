@@ -32,7 +32,7 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 
 - ## Tela de Cadastro
 
-![Tela de Cadastro](caminho/da/imagem/tela_cadastro.png)
+![Tela de Cadastro](01_tela_principal.png)
 
 ## Autores
 
