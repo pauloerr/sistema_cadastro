@@ -33,6 +33,8 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 - ## Tela de Cadastro
 
 - # Tela Principal
+
+  
 ![Tela de Cadastro](01_tela_principal.png)
 
 - **Tipo de Pessoa:**
