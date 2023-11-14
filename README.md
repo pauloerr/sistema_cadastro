@@ -30,15 +30,15 @@ Este projeto visa fornecer uma solução abrangente para o cadastro de usuários
 - **Validação de Formulário:** Campos obrigatórios e formatos específicos são validados no lado do cliente.
 - **Botão de Cadastrar/Atualizar:** Facilita o envio e processamento das informações do formulário.
 
-- ## Tela de Cadastro
+## Tela de Cadastro
 
-- # Tela Principal
+- ## Tela Principal
 
 Tela principal do sistema com campos comuns a todos os tipos de pessoas que podem ser cadastrados.
   
 ![Tela de Cadastro](01_tela_principal.png)
 
-- **Tipo de Pessoa:**
+- ## Tipo de Pessoa:
   - Opções: Pessoa Física, Pessoa Jurídica
 
 - **Tipo de Relacionamento:**
@@ -63,7 +63,7 @@ Tela principal do sistema com campos comuns a todos os tipos de pessoas que pode
   - Botão
   - Funcionalidade: Cadastra ou atualiza as informações conforme preenchido no formulário.
 
-- # Tela Aluno
+- ## Tela Aluno
 
 Opçoes exclusivas para o tipo de pessoa física Aluno
 
@@ -84,7 +84,7 @@ Opçoes exclusivas para o tipo de pessoa física Aluno
 - **Turno:**
   - Opções: Matutino, Vespertino
 
-- # Tela Professor
+- ## Tela Professor
 
 ![Tela de Cadastro](03_tela_professor.png)
 
@@ -114,7 +114,7 @@ Opçoes exclusivas para o tipo de pessoa física/jurídica Professor
 - **Disciplina:**
   - Campo de texto
 
-- # Tela Fornecedor
+- ## Tela Fornecedor
 
 Opçoes exclusivas para o tipo de pessoa jurídica Fornecedor
 
